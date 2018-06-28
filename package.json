@@ -1,0 +1,25 @@
+{
+  "name": "@oudyworks/ae",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OudyWorks/ae.git"
+  },
+  "author": "Ayoub Oudmane <ayoub@oudmane.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OudyWorks/ae/issues"
+  },
+  "homepage": "https://github.com/OudyWorks/ae#readme",
+  "dependencies": {
+    "@oudyworks/backend-template": "^1.0.87",
+    "@oudyworks/graphql": "^1.0.68",
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {
+    "@oudyworks/uikit-themes": "^1.0.15",
+    "babel-plugin-module-resolver": "^3.1.1"
+  }
+}
